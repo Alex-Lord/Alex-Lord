@@ -22,13 +22,18 @@
 
 ---
 
-<!-- 3D 贡献图 - 贪吃蛇动画 -->
+<!-- 贪吃蛇动画 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake-dark.svg" />
   </picture>
+</div>
+
+<!-- GitHub 原生贡献图 -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/Alex-Lord" alt="GitHub Contribution Chart" />
 </div>
 
 ---
