@@ -52,9 +52,6 @@
 - 🤖 LLM Agent Systems & Tool Use
 - 🌐 Multimodal AI
 
-### ⚒️ Daily Tools
-`Python` `Java` `Claude Code` `Cursor`
-
 ---
 
 ## 📊 GitHub Stats
