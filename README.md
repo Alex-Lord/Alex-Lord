@@ -111,31 +111,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-> 🚧 **精彩项目即将上线...**
->
-> 正在孵化中的研究方向：
-> - 🎨 基于 Diffusion 的创意生成工具
-> - 🤖 智能 Agent 框架与工具链
-> - 📚 LLM 训练与优化最佳实践
-
-</div>
-
-<!-- 有项目后取消注释
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Lord&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/Alex-Lord)
--->
-
-<p align="center">
-  <a href="https://github.com/Alex-Lord?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
   ### 💬 Let's Connect!
