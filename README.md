@@ -61,9 +61,15 @@
 
 <div align="center">
 
-[![Alex-Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800)](https://github.com/Alex-Lord)
+<!-- GitHub Stats Card -->
+<a href="https://github.com/Alex-Lord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Alex-Lord's GitHub stats" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&cache_seconds=1800)](https://github.com/Alex-Lord)
+<!-- Top Languages Card -->
+<a href="https://github.com/Alex-Lord">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&include_all_commits=true" alt="Top Languages" />
+</a>
 
 </div>
 
