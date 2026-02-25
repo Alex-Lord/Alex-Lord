@@ -52,6 +52,10 @@
 - 🤖 LLM Agent Systems & Tool Use
 - 🌐 Multimodal AI
 
+### 🔗 参与项目
+- [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
+- [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
+
 ---
 
 ## 📊 GitHub Stats
@@ -104,12 +108,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Lord&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
----
-
-## 🎯 参与项目
-- [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
-- [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
 
 ---
 
