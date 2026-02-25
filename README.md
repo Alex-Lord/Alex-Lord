@@ -123,6 +123,7 @@
 
 ### 🔗 参与项目
 - [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
+- [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
 
 ---
 
