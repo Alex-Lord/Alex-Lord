@@ -110,18 +110,7 @@
 
 ---
 
-## 🎯 Current Focus
-
-```text
-🔭 正在研究:      LLM agent和PostTrain
-🌱 深入探索:      大模型 Post-Training 技术
-🎨 专精领域:      Diffusion 图像/视频生成
-👯 希望合作:      AIGC 开源项目 | LLM 应用开发
-💬 欢迎询问:      扩散模型 | Agent 设计 | 大模型训练
-⚡ 工作理念:      用 AI 重新定义创造的可能性
-```
-
-### 🔗 参与项目
+## 🎯 参与项目
 - [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
 - [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
 
