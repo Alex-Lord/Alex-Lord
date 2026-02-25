@@ -22,78 +22,43 @@
 
 ---
 
-<!-- 3D 贡献图 -->
+<!-- 3D 贡献图 - 贪吃蛇动画 -->
 <div align="center">
-  <img src="https://github.com/Alex-Lord/Alex-Lord/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
 
 ## 🎯 About Me
 
-```python
-class AlexLord:
-    def __init__(self):
-        self.name = "Alex-Lord"
-        self.role = "AIGC & LLM Algorithm Engineer"
-        self.location = "China 🇨🇳"
+**Alex-Lord** | AIGC & LLM Algorithm Engineer | 🇨🇳 China
 
-        # Experience
-        self.experience = {
-            "current": "Meituan 🦘 | LLM Agent & Post-Training Research",
-            "previous": "Tencent HunyuanDiT 🐧 | Diffusion-based Image/Video Generation"
-        }
+### 💼 Experience
+- 🦘 **Meituan** | LLM Agent & Post-Training Research (Current)
+- 🐧 **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation
 
-        # Research Focus
-        self.research_areas = [
-            "Diffusion Models for Image/Video Generation",
-            "Large Language Model Post-Training",
-            "LLM Agent Systems & Tool Use",
-            "Multimodal AI"
-        ]
+### 🔬 Research Focus
+- 🎨 Diffusion Models for Image/Video Generation
+- 🧠 Large Language Model Post-Training
+- 🤖 LLM Agent Systems & Tool Use
+- 🌐 Multimodal AI
 
-        # Daily Tools
-        self.tools = ["Python", "Java", "Claude Code", "Cursor"]
-
-    def say_hi(self):
-        print("🎨 Generating creative AI solutions...")
-        print("🤖 Building intelligent agent systems...")
-        print("✨ Let's push the boundaries of AI together!")
-
-me = AlexLord()
-me.say_hi()
-```
+### ⚒️ Daily Tools
+`Python` `Java` `Claude Code` `Cursor`
 
 ---
 
-## 🏆 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- 由于是新账号，统计数据将在有贡献后自动显示 -->
 <div align="center">
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  </picture>
+[![Alex-Lord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800)](https://github.com/Alex-Lord)
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=default&hide_border=true&langs_count=6"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="180" />
-  </picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&cache_seconds=1800)](https://github.com/Alex-Lord)
 
 </div>
 
@@ -112,19 +77,16 @@ me.say_hi()
 
 ### AI/ML Expertise
 <p align="center">
-  <img src="https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HunyuanDiT-00A1D6?style=for-the-badge&logo=tencent-qq&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Post--Training-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent%20Systems-00C853?style=for-the-badge&logo=semantic-web&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM%20Post--Training-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent%20Systems-00C853?style=for-the-badge" />
 </p>
 
 ### Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
 </p>
 
 ---
