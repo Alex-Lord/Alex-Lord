@@ -2,7 +2,7 @@
 
   <!-- 动态打字机效果标题 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex-Lord;Full-Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex-Lord;AIGC+%26+LLM+Researcher;Diffusion+Model+Developer;Agent+%26+Post--Training;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 
   <!-- 动态访客计数器 -->
@@ -31,80 +31,100 @@
 
 ## 🎯 About Me
 
-```typescript
-const AlexLord = {
-    location: "China 🇨🇳",
-    role: "Full-Stack Developer",
-    passions: ["AI/ML", "Open Source", "System Design"],
-    currentlyLearning: ["Rust", "WebAssembly", "Kubernetes"],
-    hobbies: ["Coding", "Reading", "Photography"],
+```python
+class AlexLord:
+    def __init__(self):
+        self.name = "Alex-Lord"
+        self.role = "AIGC & LLM Algorithm Engineer"
+        self.location = "China 🇨🇳"
 
-    sayHi: () => {
-        console.log("Thanks for visiting my profile! Let's build something amazing together! 🚀");
-    }
-};
+        # Experience
+        self.experience = {
+            "current": "Meituan 🦘 | LLM Agent & Post-Training Research",
+            "previous": "Tencent HunyuanDiT 🐧 | Diffusion-based Image/Video Generation"
+        }
 
-AlexLord.sayHi();
+        # Research Focus
+        self.research_areas = [
+            "Diffusion Models for Image/Video Generation",
+            "Large Language Model Post-Training",
+            "LLM Agent Systems & Tool Use",
+            "Multimodal AI"
+        ]
+
+        # Daily Tools
+        self.tools = ["Python", "Java", "Claude Code", "Cursor"]
+
+    def say_hi(self):
+        print("🎨 Generating creative AI solutions...")
+        print("🤖 Building intelligent agent systems...")
+        print("✨ Let's push the boundaries of AI together!")
+
+me = AlexLord()
+me.say_hi()
 ```
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alex-Lord&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
+<!-- 由于是新账号，统计数据将在有贡献后自动显示 -->
 <div align="center">
 
-  <!-- 主要统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="200" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  </picture>
 
-  <!-- 连续贡献统计 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Lord&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" height="200" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=default&hide_border=true&langs_count=6"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" height="180" />
+  </picture>
 
 </div>
 
-<div align="center">
-
-  <!-- 语言统计 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <em>📝 统计数据将随着代码贡献自动更新</em>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Core Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </p>
 
-### Frontend
+### AI/ML Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HunyuanDiT-00A1D6?style=for-the-badge&logo=tencent-qq&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Post--Training-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Systems-00C853?style=for-the-badge&logo=semantic-web&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" />
 </p>
 
-### Backend & Database
+### Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres,redis,prisma&theme=dark" />
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,linux,vim,vscode&theme=dark" />
-</p>
-
-### AI/ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -120,11 +140,12 @@ AlexLord.sayHi();
 ## 🎯 Current Focus
 
 ```text
-🔭 正在开发:      个人全栈项目 + AI 应用
-🌱 正在学习:      Rust | WebAssembly | 分布式系统
-👯 希望合作:      开源项目 | AI 工具开发
-💬 欢迎询问:      全栈开发 | AI 应用 | 技术选型
-⚡ 有趣的事实:    我认为最好的代码是无需注释的代码
+🔭 正在研究:      LLM Agent 架构设计与优化
+🌱 深入探索:      大模型 Post-Training 技术
+🎨 专精领域:      Diffusion 图像/视频生成 (HunyuanDiT 经验)
+👯 希望合作:      AIGC 开源项目 | LLM 应用开发
+💬 欢迎询问:      扩散模型 | Agent 设计 | 大模型训练
+⚡ 工作理念:      用 AI 重新定义创造的可能性
 ```
 
 ---
@@ -133,9 +154,18 @@ AlexLord.sayHi();
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Lord&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/Alex-Lord)
+> 🚧 **精彩项目即将上线...**
+>
+> 正在孵化中的研究方向：
+> - 🎨 基于 Diffusion 的创意生成工具
+> - 🤖 智能 Agent 框架与工具链
+> - 📚 LLM 训练与优化最佳实践
 
 </div>
+
+<!-- 有项目后取消注释
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Alex-Lord&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/Alex-Lord)
+-->
 
 <p align="center">
   <a href="https://github.com/Alex-Lord?tab=repositories">
@@ -150,7 +180,7 @@ AlexLord.sayHi();
   ### 💬 Let's Connect!
 
   <p>
-    <em>"代码是写给人看的，只是顺便让机器执行。"</em>
+    <em>"创造的艺术在于让机器学会想象。" —— 专注于 AIGC 的算法工程师</em>
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
