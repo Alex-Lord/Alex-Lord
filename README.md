@@ -33,7 +33,10 @@
 
 <!-- GitHub 原生贡献图 -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/Alex-Lord" alt="GitHub Contribution Chart" />
+  <a href="https://github.com/Alex-Lord">
+    <img src="https://ghchart.rshah.org/Alex-Lord" alt="GitHub Contribution Chart" />
+  </a>
+  <p><em>👆 点击查看可交互版本</em></p>
 </div>
 
 ---
