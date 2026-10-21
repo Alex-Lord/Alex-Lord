@@ -2,7 +2,7 @@
 
   <!-- 动态打字机效果标题 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex-Lord;AIGC+%26+LLM+Researcher;Diffusion+Model+Developer;Agent+%26+Post--Training;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex-Lord;AIGC+%26+LLM+Researcher;Agentic+Recommendation+Systems;Agent+%26+Post--Training;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 
   <!-- 动态访客计数器 -->
@@ -43,16 +43,24 @@
 **Alex-Lord** | AIGC & LLM Algorithm Engineer | 🇨🇳 China
 
 ### 💼 Experience
-- 🦘 **Meituan** | LLM Agent & Post-Training Research (Current)
+- 🦘 **Meituan** | Agentic Recommendation Systems & LLM Post-Training (Current)
 - 🐧 **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation
 
+### 🚀 Current Work
+I am currently building **Agentic Recommendation Systems (Agentic Rec)**, bringing together my work on LLM agents, recommendation, and post-training.
+
 ### 🔬 Research Focus
+- 🎯 Agentic Recommendation Systems
 - 🎨 Diffusion Models for Image/Video Generation
 - 🧠 Large Language Model Post-Training
 - 🤖 LLM Agent Systems & Tool Use
 - 🌐 Multimodal AI
 
+### 📰 News
+- 🎉 **JARRN has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.** Co-first author. [Code & Project](https://github.com/Alex-Lord/JARRN)
+
 ### 🔗 参与项目
+- [JARRN](https://github.com/Alex-Lord/JARRN) — Joint Absolute-Relative Relation Network for Robust Depth Completion · **TCSVT 2026 (Accepted)**
 - [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
 - [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
 
