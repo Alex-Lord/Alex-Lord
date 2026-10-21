@@ -47,7 +47,12 @@
 - 🐧 **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation
 
 ### 🚀 Current Work
-I am currently building **Agentic Recommendation Systems (Agentic Rec)**, bringing together my work on LLM agents, recommendation, and post-training.
+I am currently building **Agentic Recommendation Systems (Agentic Rec)**, exploring how LLM reasoning and agents can make recommendations more relevant to what people need, in the context they are in.
+
+My current interests include:
+- **Intent & context understanding:** understanding user needs and preferences beyond historical behavior alone.
+- **Personalized & proactive recommendation:** helping people discover relevant options as their needs evolve.
+- **Learning from feedback:** exploring agent evaluation, post-training, and continuous improvement for recommendation quality.
 
 ### 🔬 Research Focus
 - 🎯 Agentic Recommendation Systems
