@@ -1,51 +1,40 @@
 # Alex-Lord
 
-**AIGC & LLM Algorithm Engineer** · China
+AIGC & LLM Algorithm Engineer · China
 
-Building **Agentic Recommendation Systems**, with interests in LLM agents, post-training, and multimodal AI.
+**Building agents for better recommendations.** Previously worked on diffusion-based image and video generation.
 
-[![Email](https://img.shields.io/badge/Email-779027322%40qq.com-0078D4?style=flat-square)](mailto:779027322@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Alex--Lord-181717?style=flat-square&logo=github)](https://github.com/Alex-Lord)
-![Profile Views](https://komarev.com/ghpvc/?username=Alex-Lord&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-779027322%40qq.com-555555?style=flat-square)](mailto:779027322@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Alex--Lord-555555?style=flat-square&logo=github)](https://github.com/Alex-Lord)
+![Profile Views](https://komarev.com/ghpvc/?username=Alex-Lord&label=Views&color=555555&style=flat-square)
 
-## Current Work
+## Currently
 
-I am currently building **Agentic Recommendation Systems (Agentic Rec)**, exploring how LLM reasoning and agents can make recommendations more relevant to people's needs and context.
+Working on **Agentic Recommendation Systems** at Meituan, bringing LLM reasoning and agent capabilities into personalized recommendation.
 
-- **Intent & context understanding** — Understanding user needs and preferences beyond historical behavior alone.
-- **Personalized & proactive recommendation** — Helping people discover relevant options as their needs evolve.
-- **Learning from feedback** — Exploring agent evaluation, post-training, and continuous improvement for recommendation quality.
+- **Understand intent** — User needs, preferences, and context beyond historical behavior.
+- **Improve discovery** — Personalized and proactive recommendations as needs evolve.
+- **Learn from feedback** — Agent evaluation, post-training, and continuous improvement.
 
-## Experience
+## Selected Projects
 
-| Organization | Focus |
-| :--- | :--- |
-| **Meituan** · Current | Agentic Recommendation Systems & LLM Post-Training |
-| **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation |
-
-## Research & Projects
-
-**JARRN has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.**
-
-| Project | Research area | Links |
+| Project | Focus | Resources |
 | :--- | :--- | :--- |
-| **HunyuanDiT** | Diffusion-based image generation | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT) |
-| **PILOT** | Diffusion-based image editing | [GitHub](https://github.com/Lingzhi-Pan/PILOT) · [Paper](https://arxiv.org/abs/2407.08019) |
-| **JARRN** · TCSVT 2026 | Joint Absolute-Relative Relation Network for Robust Depth Completion | [Code & Project](https://github.com/Alex-Lord/JARRN) |
+| **[HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT)** | Diffusion-based image generation | [Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT) |
+| **[PILOT](https://github.com/Lingzhi-Pan/PILOT)** | Diffusion-based image editing | [Paper](https://arxiv.org/abs/2407.08019) |
+| **[JARRN](https://github.com/Alex-Lord/JARRN)** | Robust depth completion | TCSVT 2026 · Accepted |
 
-My broader research interests include diffusion models for image/video generation, LLM post-training, agent systems and tool use, and multimodal AI.
+## Background
 
-## GitHub Stats
+- **Meituan** · Agentic Recommendation Systems & LLM Post-Training · Current
+- **Tencent HunyuanDiT** · Diffusion-based Image/Video Generation
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Alex-Lord's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Most used languages" />
-</p>
+Research interests: LLM agents & tool use, post-training, diffusion models, and multimodal AI.
 
 ## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Lord&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Lord&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
 </p>
 
 <picture>
@@ -53,3 +42,13 @@ My broader research interests include diffusion models for image/video generatio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake.svg" />
   <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake-dark.svg" />
 </picture>
+
+<details>
+<summary>GitHub Stats & Languages</summary>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" alt="Alex-Lord's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Most used languages" />
+</p>
+
+</details>
