@@ -4,7 +4,7 @@
 
 Building **Agentic Recommendation Systems**, with interests in LLM agents, post-training, and multimodal AI.
 
-[![Email](https://img.shields.io/badge/Email-alexchan.a.c%40outlook.com-0078D4?style=flat-square)](mailto:alexchan.a.c@outlook.com)
+[![Email](https://img.shields.io/badge/Email-779027322%40qq.com-0078D4?style=flat-square)](mailto:779027322@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Alex--Lord-181717?style=flat-square&logo=github)](https://github.com/Alex-Lord)
 ![Profile Views](https://komarev.com/ghpvc/?username=Alex-Lord&label=Profile%20Views&color=0e75b6&style=flat-square)
 
@@ -31,7 +31,7 @@ I am currently building **Agentic Recommendation Systems (Agentic Rec)**, explor
 | :--- | :--- | :--- |
 | **JARRN** · TCSVT 2026 | Joint Absolute-Relative Relation Network for Robust Depth Completion | [Code & Project](https://github.com/Alex-Lord/JARRN) |
 | **HunyuanDiT** | Diffusion-based image generation | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT) |
-| **PILOT** | Research project | [GitHub](https://github.com/Lingzhi-Pan/PILOT) · [Paper](https://arxiv.org/abs/2407.08019) |
+| **PILOT** | Diffusion-based image editing | [GitHub](https://github.com/Lingzhi-Pan/PILOT) · [Paper](https://arxiv.org/abs/2407.08019) |
 
 My broader research interests include diffusion models for image/video generation, LLM post-training, agent systems and tool use, and multimodal AI.
 
