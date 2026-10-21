@@ -29,9 +29,9 @@ I am currently building **Agentic Recommendation Systems (Agentic Rec)**, explor
 
 | Project | Research area | Links |
 | :--- | :--- | :--- |
-| **JARRN** · TCSVT 2026 | Joint Absolute-Relative Relation Network for Robust Depth Completion | [Code & Project](https://github.com/Alex-Lord/JARRN) |
 | **HunyuanDiT** | Diffusion-based image generation | [GitHub](https://github.com/Tencent-Hunyuan/HunyuanDiT) · [Hugging Face](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT) |
 | **PILOT** | Diffusion-based image editing | [GitHub](https://github.com/Lingzhi-Pan/PILOT) · [Paper](https://arxiv.org/abs/2407.08019) |
+| **JARRN** · TCSVT 2026 | Joint Absolute-Relative Relation Network for Robust Depth Completion | [Code & Project](https://github.com/Alex-Lord/JARRN) |
 
 My broader research interests include diffusion models for image/video generation, LLM post-training, agent systems and tool use, and multimodal AI.
 
