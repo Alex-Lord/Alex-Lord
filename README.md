@@ -1,137 +1,44 @@
-<div align="center">
+## About Me
 
-  <!-- 动态打字机效果标题 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex-Lord;AIGC+%26+LLM+Researcher;Agentic+Recommendation+Systems;Agent+%26+Post--Training;Welcome+to+my+Profile!" alt="Typing SVG" />
-  </a>
+**Alex-Lord** | AIGC & LLM Algorithm Engineer | China
 
-  <!-- 动态访客计数器 -->
-  <img src="https://komarev.com/ghpvc/?username=Alex-Lord&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+### Experience
 
-  <!-- 社交链接徽章 -->
-  <p>
-    <a href="https://github.com/Alex-Lord">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:alexchan.a.c@outlook.com">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-  </p>
+- **Meituan** | Agentic Recommendation Systems & LLM Post-Training (Current)
+- **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation
 
-</div>
+### Current Work
 
----
-
-<!-- 贪吃蛇动画 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alex-Lord/Alex-Lord/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- GitHub 原生贡献图 -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/Alex-Lord" alt="GitHub Contribution Chart" />
-</div>
-
----
-
-## 🎯 About Me
-
-**Alex-Lord** | AIGC & LLM Algorithm Engineer | 🇨🇳 China
-
-### 💼 Experience
-- 🦘 **Meituan** | Agentic Recommendation Systems & LLM Post-Training (Current)
-- 🐧 **Tencent HunyuanDiT** | Diffusion-based Image/Video Generation
-
-### 🚀 Current Work
 I am currently building **Agentic Recommendation Systems (Agentic Rec)**, exploring how LLM reasoning and agents can make recommendations more relevant to what people need, in the context they are in.
 
 My current interests include:
+
 - **Intent & context understanding:** understanding user needs and preferences beyond historical behavior alone.
 - **Personalized & proactive recommendation:** helping people discover relevant options as their needs evolve.
 - **Learning from feedback:** exploring agent evaluation, post-training, and continuous improvement for recommendation quality.
 
-### 🔬 Research Focus
-- 🎯 Agentic Recommendation Systems
-- 🎨 Diffusion Models for Image/Video Generation
-- 🧠 Large Language Model Post-Training
-- 🤖 LLM Agent Systems & Tool Use
-- 🌐 Multimodal AI
+### Research Focus
 
-### 📰 News
-- 🎉 **JARRN has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.** Co-first author. [Code & Project](https://github.com/Alex-Lord/JARRN)
+- Agentic Recommendation Systems
+- Diffusion Models for Image/Video Generation
+- Large Language Model Post-Training
+- LLM Agent Systems & Tool Use
+- Multimodal AI
 
-### 🔗 参与项目
+### News
+
+- **JARRN has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026.** First author. [Code & Project](https://github.com/Alex-Lord/JARRN)
+
+### 参与项目
+
 - [JARRN](https://github.com/Alex-Lord/JARRN) — Joint Absolute-Relative Relation Network for Robust Depth Completion · **TCSVT 2026 (Accepted)**
 - [HunyuanDiT](https://github.com/Tencent-Hunyuan/HunyuanDiT) - [HuggingFace](https://huggingface.co/Tencent-Hunyuan/HunyuanDiT)
 - [PILOT](https://github.com/Lingzhi-Pan/PILOT) - [Paper](https://arxiv.org/abs/2407.08019)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/Alex-Lord">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Lord&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Alex-Lord's GitHub stats" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/Alex-Lord">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Lord&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6&include_all_commits=true" alt="Top Languages" />
-</a>
-
-</div>
-
-<p align="center">
-  <em>📝 统计数据将随着代码贡献自动更新</em>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Core Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
-</p>
-
-### AI/ML Expertise
-<p align="center">
-  <img src="https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HunyuanDiT-00A1D6?style=for-the-badge&logo=tencent-qq&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Post--Training-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agent%20Systems-00C853?style=for-the-badge" />
-</p>
-
-### Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Lord&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-  ### 💬 Let's Connect!
-
-  <p>
-    <em>"创造的艺术在于让机器学会想象。" —— 专注于 AIGC 的算法工程师</em>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" />
-
 </div>
